@@ -1,3 +1,3 @@
 Información del proyecto de desarrollo web
 Proyecto: PizarraWeb
-Fecha inicio: 08-noviembre-2021
+Fecha inicio: 10-noviembre-2021
